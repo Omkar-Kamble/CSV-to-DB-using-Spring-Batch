@@ -44,7 +44,7 @@ This Spring Boot application facilitates batch processing to import data from a 
 1. **Clone Repository:** Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone <https://github.com/Paras2322/SpringBatch-CSV-to-DB.git>
+   git clone <https://github.com/Omkar-Kamble/CSV-to-DB-using-Spring-Batch.git>
    ```
 
 2. **Navigate to Project Directory:** Change to the project directory using the following command:
